@@ -1,3 +1,5 @@
+//24.3
+
 // 1st way to get undefined
 let pakhi;
 console.log(pakhi) 

@@ -1,3 +1,5 @@
+//24.5
+
 const numbers = [10, 3, 7, 13, 6, 4, 2, 5]
 // const output = [];
 

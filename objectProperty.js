@@ -1,3 +1,5 @@
+//24.6
+
 const students = [
     { id: 21, name: 'omar sunny' },
     { id: 31, name: 'Manna' },
